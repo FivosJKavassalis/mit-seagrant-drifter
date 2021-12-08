@@ -1,7 +1,7 @@
 # MIT Sea Grant Drifter Electronics
 
 Student: Fivos Kavassalis --
-Supervised by: Dr. Tom Consi
+Supervised by: Dr. Tom Consi and Dr. Michael Triantafyllou
 
 # Abstract
 
