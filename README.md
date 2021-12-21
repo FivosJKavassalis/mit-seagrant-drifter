@@ -176,7 +176,7 @@ to a web page with a link to Google Maps along with the corresponding
 coordinates. Moreover, it waits for the user to type in a request to send to the
 “away” Feather in order to get a reply with a sensor value.
 
-![a](https://user-images.githubusercontent.com/34138314/47153275-cdfd2d80-d2e7-11e8-84b1-1b77910695e4.PNG)
+![High-level Schematic and Interface](https://user-images.githubusercontent.com/34138314/146864379-b0611435-3dac-4753-b28b-a98bdf614b25.jpg)
 Figure 11. Hardware and Software Implementation Diagram
 
 
